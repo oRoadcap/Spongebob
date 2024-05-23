@@ -1,0 +1,60 @@
+
+body {
+	background-color: #EAF3FF;
+}
+  {
+Font color: black;
+}
+
+
+
+.jersey-20-regular, p, h1, h2, h3, h4 {
+  font-family: "Jersey 20", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+   font-size: 30px;
+}
+
+.jersey-20-regular, h7 {
+  font-family: "Jersey 20", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+}
+
+.topnav {
+   background-color: #333333;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #5700FF;
+   color: white;
+}
+ #FP.JPG {
+   float:right;
+   margin-right: 50px;
+   padding:10px;
+}
+.checked {
+  color: orange;
+}
+
+
